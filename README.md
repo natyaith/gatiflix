@@ -9,12 +9,13 @@
 
 <p align="justify">
   Projeto desenvolvido para o curso de HTML e CSS da plataforma Alura.
-  O curso ensinava a desenvolver uma página do AluraPlus, uma plataforma de streaming da Alura. 
+  O curso ensina a desenvolver uma página do AluraPlus, uma plataforma de streaming da Alura. 
   
-  Eu modifiquei o projeto criando uma página de plataforma de streaming felina, inspirada na minha gata, a Gatiele <img src="https://user-images.githubusercontent.com/61480327/208012112-eca34688-36ac-4f72-b696-1d7a0d48fa3b.png" width="45px">, daí o nome GATIFLIX.
+  Eu modifiquei o projeto criando uma plataforma de streaming felina, inspirada na minha gata, a Gatiele <img src="https://user-images.githubusercontent.com/61480327/208012112-eca34688-36ac-4f72-b696-1d7a0d48fa3b.png" width="45px"> daí o nome GATIFLIX.
 
   
   Nessa página estão disponíveis vídeos baseados no universo felino e o jogo Cat Wars.
+
 </p>
 
 ## Ferramentas utilizadas
@@ -32,4 +33,3 @@ As imagens utilizadas são do site CatFlix da Champion Cat e podem ser acessadas
 ## Desenvolvedora
 
 Feito com ❤️ por Natália Aith 👋🏽 [Entre em contato!](https://www.linkedin.com/in/natalia-a-809153125)
-
