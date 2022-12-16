@@ -31,5 +31,5 @@ As imagens utilizadas são do site CatFlix da Champion Cat e podem ser acessadas
 
 ## Desenvolvedora
 
-Feito com ❤️ por Natália Aith 👋🏽 [Entre em contato!](www.linkedin.com/in/natalia-a-809153125)
+Feito com ❤️ por Natália Aith 👋🏽 [Entre em contato!](https://www.linkedin.com/in/natalia-a-809153125)
 
