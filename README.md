@@ -1,10 +1,9 @@
 <h1 align="center">GATIFLIX</h1>
-<img src="https://user-images.githubusercontent.com/61480327/208012011-ea851597-9900-457b-8f6a-6bd50f87592d.jpg">
-
-
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/61480327/208012011-ea851597-9900-457b-8f6a-6bd50f87592d.jpg">
 
 ## Descrição do projeto 
 
@@ -27,6 +26,8 @@
 ## Acesso ao projeto
 
 Você pode acessar em https://natyaith.github.io/gatiflix/
+
+As imagens utilizadas são do site CatFlix da Champion Cat e podem ser acessadas em: https://www.championcat.cl/catflix/
 
 ## Desenvolvedora
 
